@@ -1,0 +1,36 @@
+.container .TOP{
+    background-color: #fffbf0;
+}
+
+.Women-Jacket img {
+    height: 400px;
+    padding: 50px;
+    
+}
+.men-Jacket img {
+    height: 400px;
+    padding: 50px;
+    
+    
+}
+.btn{
+    background-color: #8ba622;
+    border: none;
+    text-align: center;}
+    .price{
+        color: #fabe4c;
+    }
+    .BG-COLOR{
+        background-color: #f1f1f1;}
+
+     .card-border {
+         border: 0;
+     }   
+     .card-border-footer{
+         border: 0;
+        background-color: unset;}
+      @media (max-width: 576px) {
+          .bottom-part{
+              grid-template-columns: repeat(1, 1fr);
+          }
+      }

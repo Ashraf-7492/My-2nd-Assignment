@@ -1,6 +1,9 @@
 .container .TOP{
     background-color: #fffbf0;
 }
+.TOPHEIGHT{
+    height: 600px;
+}
 
 .Women-Jacket img {
     height: 400px;
@@ -29,8 +32,39 @@
      .card-border-footer{
          border: 0;
         background-color: unset;}
-        @media ( min-width : 576px) {
-            .bottompart1{
-                grid-template-columns: repeat(1, 1fr) 
-            }
-        }
+       
+
+    .text-icon img{
+           width: 110px;
+           height: 100px;}
+    .bottompart{
+        height: 800px;
+        margin-top: 200px;
+    }
+ .box{
+     border: 0;
+    
+ }
+ #icon{
+     margin-left: 20px;
+     margin-top: 5px;
+ }
+           
+   
+
+    
+
+
+        
+           
+            
+            
+          
+            
+            
+            
+         
+           
+        
+    
+  

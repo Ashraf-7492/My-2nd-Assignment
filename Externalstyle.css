@@ -29,8 +29,8 @@
      .card-border-footer{
          border: 0;
         background-color: unset;}
-      @media (max-width: 576px) {
-          .bottom-part{
-              grid-template-columns: repeat(1, 1fr);
-          }
-      }
+        @media ( min-width : 576px) {
+            .bottompart1{
+                grid-template-columns: repeat(1, 1fr) 
+            }
+        }
